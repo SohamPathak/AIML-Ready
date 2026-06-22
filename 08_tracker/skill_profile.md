@@ -26,8 +26,8 @@ _Last updated: 2026-06-22 (after Day-1 diagnostic, 4 questions graded)_
 | Bias-variance / regularization | 🟡 5/10 | Medium | Knows levers, not mechanisms. Confuses overfit(variance) w/ data bias. Needs `teach` deep-dive. Re-drill 06-23. |
 | Optimization (GD, Adam, LR schedules) | 🔴 untested | Medium | |
 | Loss functions & when to use | 🔴 untested | Medium | |
-| Metrics (PR, AUC, ranking metrics) | 🔴 untested | Medium | Tie to RecSys |
-| Trees/boosting internals (XGBoost) | 🔴 3/10 | Medium | RESUME TOPIC — taught 06-22, re-drill 06-24. Lock down: neg-gradient fit, additive/corrective, reg=γ leaves+L1/L2 leaf weights. |
+| Metrics (PR, AUC, ranking metrics) | 🟡 5/10 | Medium | Knows recall/precision defs. Gaps: why accuracy fails on imbalance, AUPRC vs ROC, F-beta, cost-based threshold. Wrong claim re dataset size. Deep-dive needed. |
+| Trees/boosting internals (XGBoost) | 🟡 6/10 | Medium | RESUME TOPIC. 3→6 after teach. Still: says "loss" not "negative gradient"; can't say why "gradient" (=GD in function space). Re-drill 06-24. |
 | Neural net internals (backprop, init, norm) | 🔴 untested | Medium | |
 | Embeddings & representation learning | 🔴 untested | Medium | RecSys-critical |
 | Probability / stats for ML | 🔴 untested | Medium | |

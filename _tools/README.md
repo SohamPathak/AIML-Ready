@@ -16,6 +16,8 @@ Claude reads the matching tool file and follows it exactly. This keeps every ses
 
 **Shared grading rubric (all evaluative modes):** [grading_rubric.md](grading_rubric.md)
 
+**Verbal mode (spoken/dictated answers):** [verbal_mode.md](verbal_mode.md) — applies on top of any command. Interviews are verbal, so practice that way.
+
 **Universal session rules:**
 1. Always update `08_tracker/skill_profile.md`, `progress_log.md`, and `review_queue.md` after a graded item.
 2. Save each solved item as a self-contained markdown file in the right pillar folder (revision-friendly).
