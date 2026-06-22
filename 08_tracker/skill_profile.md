@@ -3,7 +3,9 @@
 > Adaptive map of strengths/gaps. Updated after every session. Levels: 🔴 Weak · 🟡 Developing · 🟢 Solid · ⭐ Interview-ready.
 > Difficulty = current question hardness the adaptive engine serves for that topic.
 
-_Last updated: 2026-06-22 (initial — pre-diagnostic)_
+_Last updated: 2026-06-22 (after Day-1 diagnostic, 4 questions graded)_
+
+> **Diagnostic read:** RecSys mechanics are 🟢 interview-level (8, 8). Core ML theory/internals are the real gap (5, 3) — confirms the "breadth not depth" self-diagnosis. Theory depth is the highest-yield focus for Wk 1–2.
 
 ## 1. Coding / DSA
 | Topic | Level | Difficulty | Notes |
@@ -21,11 +23,11 @@ _Last updated: 2026-06-22 (initial — pre-diagnostic)_
 ## 2. ML Theory & Fundamentals
 | Topic | Level | Difficulty | Notes |
 |---|---|---|---|
-| Bias-variance / regularization | 🔴 untested | Medium | Depth target |
+| Bias-variance / regularization | 🟡 5/10 | Medium | Knows levers, not mechanisms. Confuses overfit(variance) w/ data bias. Needs `teach` deep-dive. Re-drill 06-23. |
 | Optimization (GD, Adam, LR schedules) | 🔴 untested | Medium | |
 | Loss functions & when to use | 🔴 untested | Medium | |
 | Metrics (PR, AUC, ranking metrics) | 🔴 untested | Medium | Tie to RecSys |
-| Trees/boosting internals (XGBoost) | 🔴 untested | Medium | On your resume — must be deep |
+| Trees/boosting internals (XGBoost) | 🔴 3/10 | Medium | RESUME TOPIC — taught 06-22, re-drill 06-24. Lock down: neg-gradient fit, additive/corrective, reg=γ leaves+L1/L2 leaf weights. |
 | Neural net internals (backprop, init, norm) | 🔴 untested | Medium | |
 | Embeddings & representation learning | 🔴 untested | Medium | RecSys-critical |
 | Probability / stats for ML | 🔴 untested | Medium | |
@@ -41,7 +43,7 @@ _Last updated: 2026-06-22 (initial — pre-diagnostic)_
 ## 4. RecSys Specialization (differentiator)
 | Topic | Level | Difficulty | Notes |
 |---|---|---|---|
-| Candidate generation (two-tower, ANN) | 🟡 likely-solid | Medium | Sony LIV |
+| Candidate generation (two-tower, ANN) | 🟢 8/10 | Medium | Strong: recall/precision split. Polish: quantify infeasibility; don't conflate w/ cold-start. |
 | Ranking models & strategies | 🟡 likely-solid | Medium | |
 | Collaborative filtering / MF | 🟡 likely-solid | Medium | |
 | Cold start | 🔴 untested | Medium | Common probe |

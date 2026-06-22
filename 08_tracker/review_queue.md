@@ -5,4 +5,6 @@
 
 | Due date | Pillar | Item | Last score | Interval | Misses |
 |---|---|---|---|---|---|
-| (empty — fills as you practice) | | | | | |
+| 2026-06-23 | ML Theory | Bias-variance mechanisms (why each fix works) | 5/10 | 1d | 1 |
+| 2026-06-24 | ML Theory | XGBoost: neg-gradient fit + γ/L1/L2 reg | 3/10 | 1d | 1 |
+| 2026-06-26 | RecSys | Two-tower negative sampling (in-batch, sampled softmax, logQ) | 8/10 | 3d | 0 |
