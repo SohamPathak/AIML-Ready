@@ -1,0 +1,9 @@
+# Personal / sensitive — do not publish
+*.pdf
+*Resume*
+.DS_Store
+
+# Scratch
+*.tmp
+.venv/
+__pycache__/
