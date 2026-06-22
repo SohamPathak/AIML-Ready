@@ -1,6 +1,11 @@
 # Tool: `case <topic>`
 
-Interactive ML system design / RecSys case study. Builds your highest-leverage skill.
+Interactive case study — **one per day (block 3)**, rotating across three types:
+- **HLD** (system design high-level): use the design spine below.
+- **LLD** (low-level design): class/API/schema design — objects, interfaces, data structures, edge cases. E.g. rate limiter, LRU cache, feature store schema, a recommendation-serving API.
+- **DS/ML case**: open analytical prompts — "metric dropped 10%, debug it", design an A/B test, "how would you model churn", experiment pitfalls. Save these to `09_ds_cases/`.
+
+Pick the type from the day's rotation (A=HLD, B=LLD, C=DS/ML) unless Soham names one.
 
 ## Behavior
 1. Present an open design prompt (e.g., "Design recommendations for Sony LIV at 50M users"). Default to prompts that map to Soham's resume so answers double as interview stories.

@@ -2,7 +2,11 @@
 
 > Adaptive. This is the *default* path; the daily `plan` command overrides it based on your scores.
 > Principle: **depth over coverage.** Each week you go deep on a few things, not shallow on many.
-> Daily target: ~1 coding problem + 1 deep-dive/drill + flashcards. ~1.5–2h/day. Weekly mock on Sundays.
+>
+> **⏱ Daily commitment: 8 hrs, holistic — see [daily_structure.md](daily_structure.md).** Every day = DS coding
+> (NumPy/Pandas/SQL) + LeetCode (easy→med) + 1 case study (HLD/LLD/DS-ML, rotating) + ML theory depth +
+> flashcards + behavioral. Claude is **proactive**: sets daily targets and flags any day you lagged
+> (tracked in [08_tracker/daily_log.md](../08_tracker/daily_log.md)). Weekly mock on Sundays.
 
 ## Phase map
 - **Wk 1–2: Foundations & Diagnosis** — rebuild DSA patterns, find the real ML-theory gaps.

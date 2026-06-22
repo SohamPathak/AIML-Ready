@@ -5,7 +5,8 @@ Claude reads the matching tool file and follows it exactly. This keeps every ses
 
 | Command | Tool file | Purpose |
 |---|---|---|
-| `plan` | [plan.md](plan.md) | Compute today's session from the tracker. |
+| `plan` | [plan.md](plan.md) | Compute today's **holistic 6-block** session; proactive lag-flagging. |
+| `ds-code <numpy\|pandas\|sql>` | [ds_code.md](ds_code.md) | Data-science coding: NumPy/Pandas/SQL with review. |
 | `drill <topic>` | [drill.md](drill.md) | Interview Q&A with rubric grading. |
 | `code <topic\|next>` | [code.md](code.md) | DSA/ML coding problem + review. |
 | `flashcards` | [flashcards.md](flashcards.md) | Spaced-repetition recall. |
