@@ -28,7 +28,7 @@ _Last updated: 2026-06-22 (after Day-1 diagnostic, 4 questions graded)_
 | Optimization (GD, Adam, LR schedules) | 🔴 2/10 | Medium | MISCONCEPTION on SGD ("searches minima") + Adam. Taught: SGD=mini-batch GD; Adam=momentum+adaptive per-param LR. Re-drill 06-24. |
 | Loss functions & when to use | 🔴 untested | Medium | |
 | Metrics (PR, AUC, ranking metrics) | 🟡 5/10 | Medium | Knows recall/precision defs. Gaps: why accuracy fails on imbalance, AUPRC vs ROC, F-beta, cost-based threshold. Wrong claim re dataset size. Deep-dive needed. |
-| Trees/boosting internals (XGBoost) | 🟡 6/10 | Medium | RESUME TOPIC. 3→6 after teach. Still: says "loss" not "negative gradient"; can't say why "gradient" (=GD in function space). Re-drill 06-24. |
+| Trees/boosting internals (XGBoost) | 🟢 7/10 | Medium | RESUME TOPIC. 3→6→7. Now owns "residual=neg gradient→GD in function space" + γ/λ + 2nd-order Taylor. Re-drill 06-25 to confirm sticks, then ⭐. |
 | Neural net internals (backprop, init, norm) | 🔴 untested | Medium | |
 | Embeddings & representation learning | 🔴 untested | Medium | RecSys-critical |
 | Probability / stats for ML | 🔴 untested | Medium | |
