@@ -24,8 +24,8 @@ _Last updated: 2026-06-22 (after Day-1 diagnostic, 4 questions graded)_
 | Topic | Level | Difficulty | Notes |
 |---|---|---|---|
 | Bias-variance / regularization | 🟡 5/10 | Medium | Knows levers, not mechanisms. Confuses overfit(variance) w/ data bias. Needs `teach` deep-dive. Re-drill 06-23. |
-| Regularization mechanism (L1 vs L2 sparsity) | 🔴 2/10 | Medium | MISCONCEPTION: confused regularization (penalizes weights) w/ loss (penalizes error). Taught L1 const-push→sparse vs L2 prop-push, diamond geometry. Re-drill 06-24. |
-| Optimization (GD, Adam, LR schedules) | 🔴 2/10 | Medium | MISCONCEPTION on SGD ("searches minima") + Adam. Taught: SGD=mini-batch GD; Adam=momentum+adaptive per-param LR. Re-drill 06-24. |
+| Regularization mechanism (L1 vs L2 sparsity) | 🟢 8/10 | Medium | 2→4→8. Misconception fixed: penalizes WEIGHTS (|w| vs w²); L1 const pull→sparse, L2 prop pull→shrinks. Polish: state sparsity outcome aloud. Re-drill 06-27. |
+| Optimization (GD, Adam, LR schedules) | 🟡 6/10 | Medium | 2→6. Misconception gone. Knows stochastic=mini-batch, both Adam pieces. Needs mechanism precision: momentum=EMA past grads; adaptive=÷√(EMA sq grads). Re-drill 06-26. |
 | Loss functions & when to use | 🔴 untested | Medium | |
 | Metrics (PR, AUC, ranking metrics) | 🟡 5/10 | Medium | Knows recall/precision defs. Gaps: why accuracy fails on imbalance, AUPRC vs ROC, F-beta, cost-based threshold. Wrong claim re dataset size. Deep-dive needed. |
 | Trees/boosting internals (XGBoost) | 🟢 7/10 | Medium | RESUME TOPIC. 3→6→7. Now owns "residual=neg gradient→GD in function space" + γ/λ + 2nd-order Taylor. Re-drill 06-25 to confirm sticks, then ⭐. |
