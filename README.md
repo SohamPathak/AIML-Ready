@@ -6,6 +6,35 @@
 
 ---
 
+## 📊 Daily Progress Chart
+
+Per-section activity each day. Claude updates this every session.
+**Cell legend:** number = best/avg score that day (/10) · ✅ done · ⏸️ deferred (owed) · ⬜ not touched.
+
+| Day | DS-Code | LeetCode | Case (HLD/LLD/DS) | ML Theory | Flashcards | Behavioral | Day status |
+|---|---|---|---|---|---|---|---|
+| 06-22 (setup) | ⬜ | ⬜ | ⬜ | 5⃝ (diag+drills) | ➖ | ⬜ | Setup |
+| 06-23 | ⬜ | ⬜ | ⬜ | 7 (XGBoost) | ⬜ | ⬜ | Partial |
+| 06-24 | 6 (pandas) | ⏸️ Two Sum | ⬜ | 6→8 (SGD,L1/L2) | … | … | In progress |
+
+### Section progress (latest level per topic)
+| Section | Status | Recent movement |
+|---|---|---|
+| 🟢 RecSys | 2 topics interview-level (8/8) | two-stage, two-tower solid |
+| 🟢 XGBoost | 7 — nearly ⭐ | 3→6→7 over 3 sessions |
+| 🟢 L1/L2 reg | 8 — fixed | 2→4→8, misconception cleared |
+| 🟡 SGD/Adam | 6 — improving | 2→6, mechanism needs polish |
+| 🟡 Bias-variance | 5 | deep-dive pending |
+| 🟡 Imbalanced metrics | 5 | deep-dive pending |
+| 🟡 Pandas | 6 | reset_index/idxmax pattern learned |
+| 🔴 LeetCode/DSA | untested | Two Sum owed (deferred 06-24) |
+| 🔴 System Design cases | untested | first HLD case pending |
+| 🔴 Behavioral | untested | STAR stories pending |
+
+> Full detail: [skill_profile](08_tracker/skill_profile.md) · [daily_log](08_tracker/daily_log.md) · [progress_log](08_tracker/progress_log.md)
+
+---
+
 ## How to use this (read once)
 
 This repo is run **with Claude**. You don't study alone — you say what you want and Claude runs a tool.
