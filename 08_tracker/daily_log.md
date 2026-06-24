@@ -29,6 +29,7 @@
 | 2026-06-24 | — | DS Code | Pandas: max entity per group | 6/10 |
 | 2026-06-24 | — | LeetCode | Two Sum — ⏸️ deferred (low headspace) | OWED |
 | 2026-06-24 | — | Flashcards | XGBoost / L1-L2 / SGD recall | 8/7/7 (all held) |
+| 2026-06-24 | — | Theory (new) | A/B testing & causal inference (taught) | 8/10 |
 
 ## Running tally
 - Complete days: 0

@@ -11,3 +11,4 @@
 | 2026-06-27 | ML Theory | XGBoost: residual=neg gradient→GD function space + γ/λ | 8/10 (card) | 3d | 2 |
 | 2026-06-28 | ML Theory | SGD vs Adam: momentum=EMA grads, adaptive=÷√(EMA sq grads); "gradient magnitude" not "parameter" | 7/10 (card) | 4d | 1 |
 | 2026-06-30 | ML Theory | L1 vs L2: penalty on WEIGHTS, constant vs proportional pull → sparsity | 7/10 (card) | 6d | 2 |
+| 2026-06-27 | DS/Stats | A/B testing: p-value meaning, practical sig, peeking/novelty/interference traps | 8/10 | 3d | 0 |

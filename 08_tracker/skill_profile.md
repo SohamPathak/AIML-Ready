@@ -50,6 +50,7 @@ _Last updated: 2026-06-22 (after Day-1 diagnostic, 4 questions graded)_
 | Cold start | 🔴 untested | Medium | Common probe |
 | Eval (offline/online, position bias) | 🔴 untested | Medium | |
 | Real-time / online learning | 🔴 untested | Hard | |
+| A/B testing & causal inference | 🟢 8/10 | Medium | Taught 06-24. Strong: nailed p-value definition + trap, practical vs statistical sig at scale. Learned: peeking, multiple comparisons, novelty effects, interference. Re-drill to confirm. |
 
 ## 5. MLOps & GenAI (strength → talking points)
 | Topic | Level | Difficulty | Notes |
