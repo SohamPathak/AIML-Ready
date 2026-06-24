@@ -34,6 +34,11 @@ _Last updated: 2026-06-22 (after Day-1 diagnostic, 4 questions graded)_
 | Neural net internals (backprop, init, norm) | 🔴 untested | Medium | |
 | Embeddings & representation learning | 🔴 untested | Medium | RecSys-critical |
 | Probability / stats for ML | 🔴 untested | Medium | |
+| Loss functions (MSE/MAE/Huber/CE/hinge/KL) | 🔴 untested | Medium | Broad-ML core |
+| Classic supervised (linreg assumptions, logreg, KNN, SVM/kernel, NB) | 🔴 untested | Medium | Broad-ML core |
+| Unsupervised (k-means/choosing k, DBSCAN, GMM, hierarchical) | 🔴 untested | Medium | Broad-ML core |
+| PCA / dimensionality reduction | 🔴 untested | Medium | Broad-ML core |
+| Feature engineering (encoding, scaling, missing, imbalanced/SMOTE) | 🔴 untested | Medium | Broad-ML core |
 
 ## 3. ML System Design
 | Topic | Level | Difficulty | Notes |
