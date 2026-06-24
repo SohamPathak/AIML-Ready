@@ -15,7 +15,7 @@ Per-section activity each day. Claude updates this every session.
 |---|---|---|---|---|---|---|---|
 | 06-22 (setup) | ⬜ | ⬜ | ⬜ | 5⃝ (diag+drills) | ➖ | ⬜ | Setup |
 | 06-23 | ⬜ | ⬜ | ⬜ | 7 (XGBoost) | ⬜ | ⬜ | Partial |
-| 06-24 | 6 (pandas) | ⏸️ Two Sum | ⬜ | 6→8 (SGD,L1/L2) | … | … | In progress |
+| 06-24 | 6 pandas, 7 SQL | ⏸️ Two Sum | ⏸️ HLD started | 6→8 (SGD,L1/L2) + 8 A/B | 8/7/7 ✅ | ⬜ | Strong day |
 
 ### Section progress (latest level per topic)
 | Section | Status | Recent movement |
@@ -26,6 +26,8 @@ Per-section activity each day. Claude updates this every session.
 | 🟡 SGD/Adam | 6 — improving | 2→6, mechanism needs polish |
 | 🟡 Bias-variance | 5 | deep-dive pending |
 | 🟡 Imbalanced metrics | 5 | deep-dive pending |
+| 🟢 SQL window funcs | 7 — learned from scratch | ROW_NUMBER/RANK/SUM-OVER/LAG in one session |
+| 🟢 A/B testing | 8 — new, strong | p-value, practical sig, traps |
 | 🟡 Pandas | 6 | reset_index/idxmax pattern learned |
 | 🔴 LeetCode/DSA | untested | Two Sum owed (deferred 06-24) |
 | 🔴 System Design cases | untested | first HLD case pending |

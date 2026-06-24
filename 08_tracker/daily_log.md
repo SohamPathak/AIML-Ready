@@ -9,6 +9,7 @@
 | Marked | Item | Block | Status |
 |---|---|---|---|
 | 2026-06-24 | LeetCode: Two Sum (arrays/hashing) | 2 | OWED — file ready at 01_coding_dsa/solved/2026-06-24_two_sum.py |
+| 2026-06-24 | HLD case: Design Sony LIV recs | 3 | OWED — started/deferred; file ready at 03_ml_system_design/solved/2026-06-24_design_sony_liv_recs.md |
 
 | Date | 1 DS-Code | 2 LeetCode | 3 Case | 4 Theory | 5 Cards | 6 Behav | Status | Notes |
 |---|---|---|---|---|---|---|---|---|
@@ -30,6 +31,7 @@
 | 2026-06-24 | — | LeetCode | Two Sum — ⏸️ deferred (low headspace) | OWED |
 | 2026-06-24 | — | Flashcards | XGBoost / L1-L2 / SGD recall | 8/7/7 (all held) |
 | 2026-06-24 | — | Theory (new) | A/B testing & causal inference (taught) | 8/10 |
+| 2026-06-24 | — | DS Code (SQL) | Window functions: ROW_NUMBER/RANK/SUM-OVER/LAG (from scratch) | 7/10 |
 
 ## Running tally
 - Complete days: 0
