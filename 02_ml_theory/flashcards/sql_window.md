@@ -23,3 +23,18 @@ A: An ORDER BY inside OVER() — "previous"/"next"/"rank" is undefined without a
 
 Q: For "days since last event", what should the first row per user be — 0 or NULL?
 A: NULL — there's no prior event, so the gap is unknown. COALESCE-ing to 0 falsely implies a zero-day gap.
+
+Q: Two ways to find rows above their group's average?
+A: (a) AVG(x) OVER (PARTITION BY grp) then filter x > avg; (b) self-join: JOIN a subquery of GROUP BY grp avgs back on the group key, filter.
+
+Q: Correct JOIN ON syntax?
+A: JOIN b ON a.col = b.col — always qualify BOTH sides with = and table prefix. `ON col` alone is wrong/ambiguous.
+
+Q: Does a derived table (subquery in FROM) need anything?
+A: Yes — an alias, e.g. FROM (SELECT ...) AS t.
+
+Q: [Habit] After a CTE, when do you put a comma?
+A: Only BETWEEN multiple CTEs. After the LAST CTE, go straight to the final SELECT with NO comma. (WITH a AS (...), b AS (...) SELECT ...)
+
+Q: [Habit] Is it "groupby" in SQL?
+A: No — GROUP BY is two words. (groupby is pandas.)

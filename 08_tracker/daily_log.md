@@ -32,6 +32,7 @@
 | 2026-06-24 | — | Flashcards | XGBoost / L1-L2 / SGD recall | 8/7/7 (all held) |
 | 2026-06-24 | — | Theory (new) | A/B testing & causal inference (taught) | 8/10 |
 | 2026-06-24 | — | DS Code (SQL) | Window functions: ROW_NUMBER/RANK/SUM-OVER/LAG (from scratch) | 7/10 |
+| 2026-06-24 | — | DS Code (SQL) | Above-group-avg (window + self-join, both ways) | 7/10 |
 
 ## Running tally
 - Complete days: 0

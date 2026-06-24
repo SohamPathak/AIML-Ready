@@ -13,3 +13,4 @@
 | 2026-06-30 | ML Theory | L1 vs L2: penalty on WEIGHTS, constant vs proportional pull → sparsity | 7/10 (card) | 6d | 2 |
 | 2026-06-27 | DS/Stats | A/B testing: p-value meaning, practical sig, peeking/novelty/interference traps | 8/10 | 3d | 0 |
 | 2026-06-26 | SQL | Window functions syntax: group by, CTE comma, ORDER BY in OVER, LAG | 7/10 | 2d | 0 |
+| 2026-06-26 | SQL | Self-join + JOIN ON a.col=b.col; derived-table alias; CTE no trailing comma | 7/10 | 2d | 0 |
