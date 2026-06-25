@@ -34,7 +34,7 @@ _Last updated: 2026-06-22 (after Day-1 diagnostic, 4 questions graded)_
 | Neural net internals (backprop, init, norm) | 🔴 untested | Medium | |
 | Embeddings & representation learning | 🔴 untested | Medium | RecSys-critical |
 | Probability / stats for ML | 🔴 untested | Medium | |
-| Loss functions (MSE/MAE/Huber/CE/hinge/KL) | 🔴 untested | Medium | Broad-ML core |
+| Loss functions (MSE/MAE/Huber/CE/hinge/KL) | 🟡 4/10 | Medium | Had MAE-outlier instinct but no mechanism; CE not answered. Taught fully (squaring→outlier sensitivity, CE convex+punishes confident-wrong, loss vs metric). Re-drill 06-26. |
 | Classic supervised (linreg assumptions, logreg, KNN, SVM/kernel, NB) | 🔴 untested | Medium | Broad-ML core |
 | Unsupervised (k-means/choosing k, DBSCAN, GMM, hierarchical) | 🔴 untested | Medium | Broad-ML core |
 | PCA / dimensionality reduction | 🔴 untested | Medium | Broad-ML core |

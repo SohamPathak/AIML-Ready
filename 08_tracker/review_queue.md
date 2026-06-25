@@ -14,3 +14,4 @@
 | 2026-06-27 | DS/Stats | A/B testing: p-value meaning, practical sig, peeking/novelty/interference traps | 8/10 | 3d | 0 |
 | 2026-06-26 | SQL | Window functions syntax: group by, CTE comma, ORDER BY in OVER, LAG | 7/10 | 2d | 0 |
 | 2026-06-26 | SQL | Self-join + JOIN ON a.col=b.col; derived-table alias; CTE no trailing comma | 7/10 | 2d | 0 |
+| 2026-06-26 | ML Core | Loss functions: MSE squaring→outliers, MAE robust, Huber; CE convex+confident-wrong; loss≠metric | 4/10 | 1d | 1 |
