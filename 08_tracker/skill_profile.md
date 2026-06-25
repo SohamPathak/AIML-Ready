@@ -20,7 +20,7 @@ _Last updated: 2026-06-22 (after Day-1 diagnostic, 4 questions graded)_
 | DP | 🔴 untested | Easy | Usually the hardest — defer |
 | ML coding (k-means, attention, metrics from scratch) | 🔴 untested | Medium | RecSys-relevant |
 | SQL window functions | 🟢 7/10 | Easy-Med | Learned from scratch 06-24: ROW_NUMBER/RANK/DENSE_RANK, SUM-OVER running total, LAG/LEAD. Reasoning solid; SYNTAX rusty (group by, trailing CTE comma, missing ORDER BY). Reps will fix. |
-| Pandas | 🟡 6/10 | Easy-Med | reset_index/idxmax pattern. |
+| Pandas | 🟢 7/10 | Easy-Med | idxmax/reset_index, map+fillna, merge how='left', named aggregation. Default to named agg + reset_index for clean output. |
 
 ## 2. ML Theory & Fundamentals
 | Topic | Level | Difficulty | Notes |

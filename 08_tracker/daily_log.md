@@ -15,7 +15,8 @@
 |---|---|---|---|---|---|---|---|---|
 | 2026-06-22 | ❌ | ❌ | ❌ | ✅ | ➖ | ❌ | ⚠️ SETUP DAY | System build + diagnostic + theory drills (XGBoost, metrics, SGD, L1/L2). Holistic structure starts 06-23. |
 | 2026-06-23 | ❌ | ❌ | ❌ | ✅ | ➖ | ❌ | ⚠️ PARTIAL | Structure defined today; only theory done (XGBoost full teach 7/10). First *full* holistic day = 06-24. |
-| 2026-06-24 | ✅ | ⏸️ | ⬜ | ✅ | ✅ | ⬜ | ⏳ IN PROGRESS | Theory re-drills (SGD 2→6, L1/L2 2→8) + pandas (6/10) + flashcards (XGBoost 8, L1/L2 7, SGD 7 — all held). LeetCode ⏸️ owed; case/behavioral pending. |
+| 2026-06-24 | ✅ | ⏸️ | ⏸️ | ✅ | ✅ | ⬜ | ✅ STRONG (5 areas) | Theory (SGD 2→6, L1/L2 2→8, A/B 8) + DS-code (pandas 6, SQL×2 7/7) + flashcards 8/7/7. LeetCode + HLD ⏸️ owed. |
+| 2026-06-25 | ✅ | ⏸️ | ⬜ | ⬜ | ⬜ | ⬜ | ⏳ IN PROGRESS | DS-code pandas merge/agg (7/10). OWED carryover: Two Sum (LeetCode), HLD Sony case. |
 
 ## Session Timeline (timestamped activity log)
 > Every graded item / block action with date + time, so we track WHEN things happen, not just whether.
@@ -33,6 +34,7 @@
 | 2026-06-24 | — | Theory (new) | A/B testing & causal inference (taught) | 8/10 |
 | 2026-06-24 | — | DS Code (SQL) | Window functions: ROW_NUMBER/RANK/SUM-OVER/LAG (from scratch) | 7/10 |
 | 2026-06-24 | — | DS Code (SQL) | Above-group-avg (window + self-join, both ways) | 7/10 |
+| 2026-06-25 | — | DS Code (Pandas) | Per-plan summary, merge/map+fillna+named agg | 7/10 |
 
 ## Running tally
 - Complete days: 0
