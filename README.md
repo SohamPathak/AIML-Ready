@@ -15,7 +15,9 @@ Per-section activity each day. Claude updates this every session.
 |---|---|---|---|---|---|---|---|
 | 06-22 (setup) | ⬜ | ⬜ | ⬜ | 5⃝ (diag+drills) | ➖ | ⬜ | Setup |
 | 06-23 | ⬜ | ⬜ | ⬜ | 7 (XGBoost) | ⬜ | ⬜ | Partial |
-| 06-24 | 6 pandas, 7 SQL | ⏸️ Two Sum | ⏸️ HLD started | 6→8 (SGD,L1/L2) + 8 A/B | 8/7/7 ✅ | ⬜ | Strong day |
+| 06-24 | 6 pandas, 7 SQL×2 | ⏸️ Two Sum | ⏸️ HLD started | 6→8 (SGD,L1/L2) + 8 A/B | 8/7/7 ✅ | ⬜ | Strong day |
+| 06-25 | 7 pandas merge | ⏸️ | ⬜ | 4 loss fns (taught) | ⬜ | ⬜ | Theory+DS |
+| 06-26 | ⬜ | ⏸️ | ⬜ | BCE + AUC/AUPRC refresh | ⬜ | ⬜ | Theory |
 
 ### Section progress (latest level per topic)
 | Section | Status | Recent movement |

@@ -18,5 +18,14 @@ A: Fβ weights recall vs precision; β>1 weights recall higher. Use when false n
 Q: Do precision and recall break when the dataset gets larger?
 A: No — they're ratios. Numerator and denominator scale together; the rates stay meaningful.
 
+Q: What does AUC-ROC actually represent?
+A: The probability the model ranks a random positive above a random negative. Threshold-independent measure of class separation. 0.5=random, 1=perfect.
+
+Q: Why can ROC-AUC look deceptively good on severely imbalanced data?
+A: FPR = FP/(FP+TN); the huge true-negative count dilutes FPR, so many false positives barely move it. Use AUPRC instead — precision exposes false positives directly.
+
+Q: BCE formula and what -log does?
+A: -[y·log(ŷ) + (1-y)·log(1-ŷ)]. The y/(1-y) switch activates only the true class's term; -log → ∞ as predicted prob for the true class → 0, so it punishes confident-wrong harshly. It's the Bernoulli negative log-likelihood.
+
 Q: In gradient boosting, why is it called "gradient"?
 A: Each tree fits the negative gradient of the loss w.r.t. the current prediction — adding it is a gradient-descent step in function space.
