@@ -43,7 +43,7 @@ _Last updated: 2026-06-22 (after Day-1 diagnostic, 4 questions graded)_
 ## 3. ML System Design
 | Topic | Level | Difficulty | Notes |
 |---|---|---|---|
-| Design framework (clarify→data→model→serve→eval) | 🔴 untested | Medium | Learn the spine first |
+| Design framework (clarify→data→model→serve→eval) | 🟡 6/10 | Medium | Mock 06-28 (anomaly): LEAN HIRE. Strong: clarifies first, self-corrects, AUPRC. Gaps: infra vocab (Flink not EMR, Redis≠OLAP), missed detection-latency metric + stateful streaming + drift detection. |
 | Feature stores / data pipelines | 🟡 likely-solid | Medium | You've built these |
 | Serving / latency / scaling | 🟡 likely-solid | Medium | |
 | Monitoring / drift / A-B | 🟡 likely-solid | Medium | You've built these |

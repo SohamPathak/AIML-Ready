@@ -18,6 +18,7 @@ Per-section activity each day. Claude updates this every session.
 | 06-24 | 6 pandas, 7 SQL×2 | ⏸️ Two Sum | ⏸️ HLD started | 6→8 (SGD,L1/L2) + 8 A/B | 8/7/7 ✅ | ⬜ | Strong day |
 | 06-25 | 7 pandas merge | ⏸️ | ⬜ | 4 loss fns (taught) | ⬜ | ⬜ | Theory+DS |
 | 06-26 | ⬜ | ⏸️ | ⬜ | BCE + AUC/AUPRC refresh | ⬜ | ⬜ | Theory |
+| 06-28 | ⬜ | ⏸️ | 🟡 6 MOCK (anomaly) | ⬜ | ⬜ | ⬜ | First sys-design mock! |
 
 ### Section progress (latest level per topic)
 | Section | Status | Recent movement |
@@ -32,7 +33,7 @@ Per-section activity each day. Claude updates this every session.
 | 🟢 A/B testing | 8 — new, strong | p-value, practical sig, traps |
 | 🟡 Pandas | 6 | reset_index/idxmax pattern learned |
 | 🔴 LeetCode/DSA | untested | Two Sum owed (deferred 06-24) |
-| 🔴 System Design cases | untested | first HLD case pending |
+| 🟡 System Design | 6 — LEAN HIRE (1 mock) | strong instincts/self-correction; infra vocab + headline metrics to sharpen |
 | 🔴 Behavioral | untested | STAR stories pending |
 
 > Full detail: [skill_profile](08_tracker/skill_profile.md) · [daily_log](08_tracker/daily_log.md) · [progress_log](08_tracker/progress_log.md)

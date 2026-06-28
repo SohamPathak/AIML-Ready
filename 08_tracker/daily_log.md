@@ -19,6 +19,7 @@
 | 2026-06-24 | ✅ | ⏸️ | ⏸️ | ✅ | ✅ | ⬜ | ✅ STRONG (5 areas) | Theory (SGD 2→6, L1/L2 2→8, A/B 8) + DS-code (pandas 6, SQL×2 7/7) + flashcards 8/7/7. LeetCode + HLD ⏸️ owed. |
 | 2026-06-25 | ✅ | ⏸️ | ⬜ | ✅ | ⬜ | ⬜ | ➖ THEORY+DS | DS-code pandas merge/agg (7/10) + ML core loss functions (4→taught). OWED carryover: Two Sum, HLD Sony case. |
 | 2026-06-26 | ⬜ | ⏸️ | ⬜ | ✅ | ⬜ | ⬜ | ➖ THEORY | Core ML refresh: BCE concept (taught), accuracy-fails + ROC-AUC vs AUPRC (refreshed, AUC nuance landed). OWED: BCE check Qs, Two Sum, HLD. |
+| 2026-06-28 | ⬜ | ⏸️ | ✅ | ⬜ | ⬜ | ⬜ | ➖ SYS DESIGN | First full system-design MOCK (anomaly detection, cross-questioned) → LEAN HIRE. Cleared the long-owed HLD-ish block! Two Sum still owed. |
 
 ## Session Timeline (timestamped activity log)
 > Every graded item / block action with date + time, so we track WHEN things happen, not just whether.
@@ -39,6 +40,7 @@
 | 2026-06-25 | — | DS Code (Pandas) | Per-plan summary, merge/map+fillna+named agg | 7/10 |
 | 2026-06-25 | — | ML Core | Loss functions (MSE/MAE/CE) drill→teach | 4/10 |
 | 2026-06-26 | — | ML Core | BCE concept (taught); accuracy/ROC-AUC/AUPRC refresh | AUC nuance landed ✓ |
+| 2026-06-28 | — | System Design | MOCK: real-time anomaly detection (cross-questioned) | 🟡 LEAN HIRE (6/10) |
 
 ## Running tally
 - Complete days: 0

@@ -8,6 +8,7 @@
 | 2026-06-23 | ML Theory | Bias-variance mechanisms (why each fix works) | 5/10 | 1d | 1 |
 | 2026-06-27 | ML Theory | Imbalanced metrics + AUC-ROC vs AUPRC (FPR diluted by TN) | refreshed | 3d | 1 |
 | 2026-06-27 | ML Core | BCE: formula, y/(1-y) switch, -log punishes confident-wrong, Bernoulli NLL | taught | 1d | 0 |
+| 2026-06-30 | Sys Design | Streaming infra vocab: Flink/stateful windows, Redis≠OLAP, detection-latency metric, drift detection | mock 6/10 | 2d | 0 |
 | 2026-06-26 | RecSys | Two-tower negative sampling (in-batch, sampled softmax, logQ) | 8/10 | 3d | 0 |
 | 2026-06-27 | ML Theory | XGBoost: residual=neg gradient→GD function space + γ/λ | 8/10 (card) | 3d | 2 |
 | 2026-06-28 | ML Theory | SGD vs Adam: momentum=EMA grads, adaptive=÷√(EMA sq grads); "gradient magnitude" not "parameter" | 7/10 (card) | 4d | 1 |
